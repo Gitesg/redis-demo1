@@ -18,7 +18,7 @@ fun HTML.index() {
             +"Hello from Ktor"
         }
         div {
-            id = "root"
+            id = ""
         }
         script(src = "/static/untitled.js") {}
     }
